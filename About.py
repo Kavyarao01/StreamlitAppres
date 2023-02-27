@@ -15,7 +15,7 @@ st.header("Skills")
 st.text("Python ,Tableau,Power Bi,Machine Learning,Statistical Analysis, Data Analysis")
 
 url = "https://www.linkedin.com/in/kavya-rao-18709a223/"
-
+              
 git = "https://github.com/Kavyarao01"
 
 st.snow()
@@ -26,4 +26,3 @@ if btn_click == True:
 
  st.markdown("Contact Me:handshake: [Kavya Rao](%s)" % url)
  st.markdown("My Works :computer: [Kavya Rao](%s)" % git)
-st.balloons()
